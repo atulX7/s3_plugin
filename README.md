@@ -1,6 +1,6 @@
 # 🚀 Data Sources Connector Framework 🚀
 
-Welcome to the Data Sources Connector Framework! This plugin facilitates a sleek interface for connecting with AWS S3, allowing you to fetch and analyze data seamlessly. Let's get you started!
+Welcome to the Data Sources Connector Framework! This plugin facilitates a sleek interface for connecting with AWS S3, allowing you to fetch, crawl, and analyze data seamlessly. Let's get you started!
 
 ## 📦 Installation
 
