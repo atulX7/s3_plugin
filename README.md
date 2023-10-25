@@ -22,7 +22,7 @@ After installation, follow these steps:
 
 1. **Run the Flask App**:
     ```bash
-    python connector.py
+    python test.py
     ```
 
 2. **Access the Interface**:
